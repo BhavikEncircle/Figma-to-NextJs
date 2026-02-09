@@ -17,6 +17,7 @@ export default function Aboutus() {
           src="/Banner.png"
           alt="Banner"
           fill
+          sizes="100vw"
           className="object-cover"
           priority
         />

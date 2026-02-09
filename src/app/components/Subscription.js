@@ -1,3 +1,4 @@
+"use-client";
 import Image from "next/image";
 
 export const Subscription = () => {
@@ -9,6 +10,8 @@ export const Subscription = () => {
           alt="Subscription Banner"
           width={2000}
           height={1000}
+          sizes="100vw"
+          className="w-full h-auto"
         />
       </div>
       <div className="absolute inset-0 z-10 w-full flex flex-col items-center gap-6 px-6 py-12">

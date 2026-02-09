@@ -16,6 +16,7 @@ export default function Features() {
                   alt={item.title}
                   fill
                   className="object-contain"
+                  sizes="auto"
                 />
               </div>
               <h3 className="text-4xl font-bold text-gray-900 mb-4">

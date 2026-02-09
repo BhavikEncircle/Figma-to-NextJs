@@ -11,6 +11,7 @@ export const Testimonials = () => {
             height={600}
             width={600}
             className="object-contain"
+            sizes="auto"
           />
         </div>
 
@@ -22,6 +23,7 @@ export const Testimonials = () => {
               width={80}
               height={60}
               className="object-contain"
+              sizes="auto"
             />
           </div>
 

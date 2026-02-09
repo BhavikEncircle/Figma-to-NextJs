@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export const Testimonials = () => {
   return (
-    <section className="py-24 bg-white">
+    <section className="py-28 mb-20 bg-white ">
       <div className="max-w-[1440px] mx-auto px-10 flex flex-col md:flex-row items-center justify-between gap-16 lg:gap-24">
         <div className="relative w-full md:w-1/2 flex justify-center">
           <Image
